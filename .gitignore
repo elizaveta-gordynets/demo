@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+###custom files ###
+src/main/resources/someTestFile.txt

@@ -3,5 +3,3 @@ smth to test rebase
 for one commit
 
 for squash commit
-
-yeah another line

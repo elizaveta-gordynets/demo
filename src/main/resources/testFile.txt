@@ -1,3 +1,5 @@
 smth to test rebase
 
 for one commit
+
+for squash commit

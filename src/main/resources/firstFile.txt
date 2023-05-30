@@ -7,8 +7,4 @@ Some new changes
 2
 3
 4
-
-some extra changes from dev
-
-
-changes to cherry-pick
+some new text to add
